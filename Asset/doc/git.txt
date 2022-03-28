@@ -1,0 +1,7 @@
+echo "# Sayna-html-css-exercice3" >> LISEZMOI.md 
+git init 
+git add LISEZMOI.md 
+git commit -m "Boomm first commit" 
+git branch -M main 
+git remote add origin https://github.com/Jholandry/ Sayna-html-css-exercice3.git
+git push -u origin main
